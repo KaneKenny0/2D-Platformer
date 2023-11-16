@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Programming\sdl_game_final\SDL_Game\SDL_Project__Template\Source.cpp(249,8): warning C4101: 'elapsedMilliseconds': unreferenced local variable
+D:\Programming\sdl_game_final\SDL_Game\SDL_Project__Template\Source.cpp(248,8): warning C4101: 'elapsedSeconds': unreferenced local variable
+D:\Programming\sdl_game_final\SDL_Game\SDL_Project__Template\Source.cpp(706,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programming\sdl_game_final\SDL_Game\SDL_Project__Template\Source.cpp(699,6): warning C4101: 'randY': unreferenced local variable
+  SDL_Project__Template.vcxproj -> D:\Programming\sdl_game_final\SDL_Game\Debug\SDL_Project__Template.exe
